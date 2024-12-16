@@ -1268,12 +1268,14 @@ input, select, textarea {
 			}
 
 		#header .logo {
+			display: block;
+			margin: 0 auto; 
 			width: 15.5rem;
 			height: 15.5rem;
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-			background: url(/images/headshot.jpeg) no-repeat center; /* ENTER YOUR PHOTO URL */
+			background: url(/images/DSC00751.JPEG) no-repeat center; /* ENTER YOUR PHOTO URL */
 			background-size: cover;
 		}
 
